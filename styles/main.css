@@ -16,6 +16,30 @@ header {
 
 .headContainer {
     text-align: right;
+    padding-top: 195px;
+    padding-right: 150px;
+}
+
+.headTitle {
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.headDescription {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.headBtn {
+    border-radius: 5px;
+    background: #F15B22;
+    border: none;
+    padding: 5px 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
 }
 
 /* section Story */
@@ -108,7 +132,8 @@ section .item2 {
     font-size: 40px;
     font-weight: 700;
 }
-.btn1{
+
+.btn1 {
     margin: 30px 0px 0px 65px;
     border: none;
     padding: 10px 20px;
