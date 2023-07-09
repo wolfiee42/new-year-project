@@ -60,7 +60,7 @@ section .item2 {
 
 /* my plans section */
 .logoSec {
-    margin: 130px 150px;
+    margin: auto;
     text-align: center;
 }
 
@@ -86,8 +86,35 @@ section .item2 {
 }
 
 .logoDesc {
-    margin-top:20px;
+    margin-top: 20px;
     color: #737272;
     font-size: 25px;
     font-weight: 500;
+}
+
+/* third section */
+.third {
+    background-image: url('../images/gradient2.png'), url('../images/watch.png');
+    background-repeat: no-repeat;
+    margin: 120px auto;
+    width: 1140px;
+    height: 300px;
+
+}
+
+.thirdTitle {
+    padding: 60px 0px 0px 65px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+.btn1{
+    margin: 30px 0px 0px 65px;
+    border: none;
+    padding: 10px 20px;
+    color: #F15B22;
+    background-color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+
 }
