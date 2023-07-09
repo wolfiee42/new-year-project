@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* Header Section */
+header {
+    background-image: url('../images/banner/banner2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 1600;
+    height: 800px;
+
+}
+
+.headContainer {
+    text-align: right;
+}
+
+/* section Story */
+
+.storytelling {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fff;
+    margin: 130px 150px;
+}
+
+.profilePic {
+    width: 450px;
+    height: 550px;
+}
+
+section .item2 {
+
+    max-width: 300px;
+
+}
+
+.storyHead {
+    color: #151414;
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.storyDescription {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.storyPoints {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+/* my plans section */
+.logoSec {
+    margin: 130px 150px;
+    text-align: center;
+}
+
+.logooTitle {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.logoo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.logoTitle {
+    margin-top: 30px;
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.logoDesc {
+    margin-top:20px;
+    color: #737272;
+    font-size: 25px;
+    font-weight: 500;
+}
